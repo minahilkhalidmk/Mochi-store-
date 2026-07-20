@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getDatabase, ref, remove } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCg8K-ZbaIDuW3KosY-S9R0QE8vyF2Tjh0",
+  apiKey: "----------------------------",
   authDomain: "mochi-products.firebaseapp.com",
   projectId: "mochi-products",
   databaseURL: "https://mochi-products-default-rtdb.firebaseio.com"
